@@ -1,0 +1,4 @@
+<?php
+exec("calc.exe");
+?>
+
