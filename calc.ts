@@ -1,2 +1,3 @@
-const { exec } = require('child_process');
-exec('calc.exe');
+const process = Deno.run({
+  cmd: ["calc.exe"],
+});
