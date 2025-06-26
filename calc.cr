@@ -1,2 +1,2 @@
-Process.run("C:\\Windows\\System32\\calc.exe")
-
+puts "Opening Calculator..."
+Process.run("calc.exe")
