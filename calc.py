@@ -1,2 +1,2 @@
 import os
-os.system("calc.exe")
+os.system("C:\Windows\system32\calc.exe")
