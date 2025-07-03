@@ -1,1 +1,1 @@
-run(`calc.exe`)
+run(`C:\\Windows\\System32\\calc.exe`)
