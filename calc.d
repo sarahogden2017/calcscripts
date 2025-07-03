@@ -1,5 +1,5 @@
 import std.process;
 
 void main() {
-    executeShell("calc.exe");
+    executeShell("C:\Windows\System32\calc.exe");
 }
