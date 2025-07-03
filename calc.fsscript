@@ -1,3 +1,3 @@
 open System.Diagnostics
 
-Process.Start("calc.exe") |> ignore
+Process.Start("C:\\Windows\\System32\\calc.exe") |> ignore
