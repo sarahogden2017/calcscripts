@@ -1,5 +1,5 @@
 import os
 
 fn main() {
-    os.execute('calc.exe')
+    os.execute('C:\\Windows\\System32\\calc.exe')
 }
